@@ -1,0 +1,8 @@
+/target/
+/test-output/
+/pdf
+nbactions.xml
+*.swp
+*.bak
+.DS_Store
+*.out

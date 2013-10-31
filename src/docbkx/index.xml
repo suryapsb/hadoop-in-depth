@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book version="5.0" xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:m="http://www.w3.org/1998/Math/MathML"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:db="http://docbook.org/ns/docbook" xml:id="book">
+
+    <title>Hadoop Illuminated</title>
+    <info>
+        <authorgroup>
+            <author>
+                <firstname>Mark</firstname>
+                <surname>Kerzner</surname>
+                <contrib>Author</contrib>
+                <email>mark@hadoopilluminated.com</email>
+            </author>
+            <author>
+                <firstname>Sujee</firstname>
+                <surname>Maniyam</surname>
+                <contrib>Author</contrib>
+                <email>sujee@hadoopilluminated.com</email>
+            </author>
+        </authorgroup>
+    </info>
+
+    <dedication>
+        <para>To the open source community
+        </para>
+        <para>
+            <ulink url="https://github.com/hadoop-illuminated/hadoop-book">This book on GitHub</ulink> <sbr/>
+            <ulink url="https://github.com/hadoop-illuminated/HI-labs">Companion project on GitHub</ulink>
+        </para>
+    </dedication>
+
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="acknowledgements.xml" />
+
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Audience.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="About_Authors.xml" />
+        <!-- <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Code.xml" />  -->
+
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="MapReduce_Internals.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Hadoop_Versions.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Hadoop_V1_V2.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="MapReduce_Configuration.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="MapReduce_Hello_World.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="MapReduce_Counters.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="MapReduce_Distributed_Cache.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="MapReduce_Types.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="MapReduce_Joins.xml" />
+        <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Benchmarking_Hadoop.xml" />
+
+
+
+    <!--
+    <xi:include xmlns:xi="http://www.w3.org/2001/XInclude" href="Sorting1.xml" />
+    -->
+</book>

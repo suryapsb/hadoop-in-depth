@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<acknowledgements version="5.0" xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xi="http://www.w3.org/2001/XInclude"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:m="http://www.w3.org/1998/Math/MathML"
+    xmlns:html="http://www.w3.org/1999/xhtml"
+    xmlns:db="http://docbook.org/ns/docbook">
+        <para>
+            <emphasis role="bold">From Mark</emphasis><sbr/>
+            I would like to express gratitude to my editors, co-authors, colleagues, and bosses
+            who shared the thorny path to working clusters - with the hope to make it less thorny for
+            those who follow. Seriously, folks, Hadoop is hard, and Big Data is tough, and there are
+            many related products and skills that you need to master. Therefore, have fun,
+            <ulink url="http://groups.google.com/group/hadoop-illuminated">provide your feedback</ulink>,
+            and I hope you will find the book entertaining. 
+        </para>
+        <para>
+            "The author's opinions do not necessarily coincide with his point of view." -
+            <ulink url="http://lib.udm.ru/lib/PELEWIN/pokolenie_engl.txt">
+                <emphasis>Victor Pelevin, "Generation P"</emphasis>
+            </ulink>
+        </para>
+        <para>
+            <emphasis role="bold">From Sujee</emphasis><sbr/>
+            To the kind souls who helped me along the way
+        </para>
+        <para>
+            Copyright © 2013 Hadoop illuminated LLC. All Rights Reserved.
+        </para>
+</acknowledgements>
